@@ -1,7 +1,7 @@
 mybuild.buildlog
 *.out
 *.log
-*.report
-
+*.report:
+.DS_Store
 build/
 dath/to/directory/file.txt
